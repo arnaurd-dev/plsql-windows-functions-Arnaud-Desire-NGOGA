@@ -36,6 +36,10 @@ The `transactions` table links customers and products, representing a many-to-ma
 
 Sample data was inserted to populate the tables and test the analytical queries.
 
+<img width="491" height="573" alt="inserting data" src="https://github.com/user-attachments/assets/c5c9399b-b983-48f0-ade1-a477c998abd1" />
+<img width="487" height="392" alt="inserting products data" src="https://github.com/user-attachments/assets/f9eef184-aa32-48ca-b3b9-9a5e0307bcf6" />
+<img width="790" height="396" alt="inserting transcations data" src="https://github.com/user-attachments/assets/46f3c473-9c2a-4c17-ab0c-8398b6ebb181" />
+
 <img width="591" height="300" alt="transcations data" src="https://github.com/user-attachments/assets/279b2903-e6ef-4843-af3f-830a953103c3" />
 <img width="393" height="256" alt="customer data" src="https://github.com/user-attachments/assets/ad729ad6-7e91-4047-84c2-bad7c49390eb" />
 <img width="332" height="300" alt="products data" src="https://github.com/user-attachments/assets/72e402ba-4d11-4b7e-9ae0-58f934a65619" />
