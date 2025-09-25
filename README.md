@@ -229,6 +229,12 @@ ORDER BY
 | 2024-2 | 75000 | 110000 |
 
 -----
+# key findings
+Product Sales are Regionally Fragmented: The top-selling product in each region varies (i.e., Salt in HUYE, Ipad in MUSANZE, Coffee Beans in Kigali). This requires a localized marketing and inventory strategy rather than a single national one.
+
+Sales Momentum is Accelerating Rapidly: Month-to-month sales performance is accelerating upwards strongly, from well under the yearly average in January to 20,000 above the average in April. This requires immediate proactive supply chain adjustments.
+
+Customer Value is Highly Concentrated in Top Spenders: The top 4 customers contribute the largest percentage of total revenue, highlighting that high-value customers like "IRAKOZE Patrick" are crucial. Targeted promotional and loyalty campaigns should give major focus to these high-placed individuals.
 
 ## 🛠️ Conclusion
 
