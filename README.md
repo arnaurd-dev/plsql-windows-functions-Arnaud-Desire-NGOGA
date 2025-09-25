@@ -245,3 +245,8 @@ Customer Value is Highly Concentrated in Top Spenders: The top 4 customers contr
 ## 🛠️ Conclusion
 
 This project successfully transformed raw sales data into business-critical intelligence with the use of Advanced SQL Window Functions. The written queries provide important metrics like top-selling products by region and important sales momentum metrics like YoY growth. Customer segmentation by rank, on the other hand, enables promotional campaigns to be directed towards high-value customers. Ultimately, these analytical applications allow the FMCG retail company to make data-driven decisions to enhance inventory and sales optimization. The relational database structure that lies beneath supports future expansion and complex analysis.
+
+
+
+
+"All sources were properly cited. Implementations and analysis represent original work. No AIgenerated content was copied without attribution or adaptation."
