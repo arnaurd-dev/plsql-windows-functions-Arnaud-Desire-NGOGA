@@ -229,6 +229,12 @@ ORDER BY
 | 2024-2 | 75000 | 110000 |
 
 -----
+# Additional key point
+COMMIT: the command commit in CMD where we write SQL codes has some roles but one primary role of commit is that, COMMIT command in SQL is to PERMANENTLY save all changes made during the current trranscation to database. 
+
+
+<img width="238" height="127" alt="commit" src="https://github.com/user-attachments/assets/330db4f1-93c2-4ece-a44f-e96a1facbf18" />
+
 # key findings
 Product Sales are Regionally Fragmented: The top-selling product in each region varies (i.e., Salt in HUYE, Ipad in MUSANZE, Coffee Beans in Kigali). This requires a localized marketing and inventory strategy rather than a single national one.
 
