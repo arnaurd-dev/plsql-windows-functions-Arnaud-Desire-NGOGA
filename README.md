@@ -1,5 +1,11 @@
 # 📈 Retail Sales & Inventory Analytics using SQL Window Functions
 
+## Business Problem
+The retailer struggles to identify top-selling products and segment customers effectively from its sales data, which limits inventory and marketing decisions.
+
+## source:
+Griva, A., Bardaki, C., Pramatari, K., & Papakyriakopoulos, D. (2018). Retail Business Analytics: Customer Visit Segmentation Using Market Basket Data. Expert Systems with Applications, 100, 1–15. ResearchGate
+
 This project focuses on leveraging **Advanced SQL** and **Window Functions** to solve critical business challenges for a national **FMCG retail company** in Rwanda. By analyzing daily sales data, the goal is to transform raw information into actionable insights that prevent risks like stockouts, overstocking, and ineffective promotions.
 
 The analysis framework is designed to deliver three primary expected outcomes:
@@ -8,7 +14,6 @@ The analysis framework is designed to deliver three primary expected outcomes:
 2.  Compute **sales growth and momentum** to detect deteriorating performance.
 3.  Set customers by **revenue quartiles** to guide targeted promotions.
    
-So here’s the source : Griva, A., Bardaki, C., Pramatari, K., & Papakyriakopoulos, D. (2018). Retail Business Analytics: Customer Visit Segmentation Using Market Basket Data. Expert Systems with Applications, 100, 1–15. ResearchGate.
    
 ### Names
 
