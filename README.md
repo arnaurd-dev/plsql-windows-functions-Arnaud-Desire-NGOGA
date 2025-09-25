@@ -7,8 +7,10 @@ The analysis framework is designed to deliver three primary expected outcomes:
 1.  Highlight **top performing products** by quarter and region.
 2.  Compute **sales growth and momentum** to detect deteriorating performance.
 3.  Set customers by **revenue quartiles** to guide targeted promotions.
-
-### Team Member
+   
+So here’s the source : Griva, A., Bardaki, C., Pramatari, K., & Papakyriakopoulos, D. (2018). Retail Business Analytics: Customer Visit Segmentation Using Market Basket Data. Expert Systems with Applications, 100, 1–15. ResearchGate.
+   
+### Names
 
   * **NGOGA Desire Arnaud** (ID: 27627)
 
