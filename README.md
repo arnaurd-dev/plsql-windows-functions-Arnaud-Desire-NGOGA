@@ -21,6 +21,22 @@ The analysis framework is designed to deliver three primary expected outcomes:
 
 -----
 
+## Measurable Goals
+1.Top Product by Region (ROW_NUMBER()):
+Identifies the highest selling products in terms of total amount for each geographical region.
+
+2.Sales Momentum: Month-over-Month Growth (LAG()):
+Calculates the Year-over-Year (YoY) sales growth percentage using the LAG() function to look back 12 months for comparison.
+
+3.Sales Momentum: Difference from Annual Average (AVG() OVER()):
+Compares monthly sales performance against the average monthly sales for the entire year, partitioned by sale_year.
+
+4.Customer Segmentation (RANK()):
+Ranks customers by their total spending to identify high-value clients for targeted marketing campaigns.
+
+5.Running Sales Totals (SUM() OVER()):
+Calculates a running average of sales per quarter, providing insight into sales momentum over the reporting period.
+
 ## 🗄️ Database Structure and Schema
 
 The project utilizes a simple, normalized schema based on three tables: `customers`, `products`, and `transactions`.
